@@ -1,0 +1,33 @@
+
+1 - JRP (reunion de planeacion de requerimientos): aprrovechando que los jefes se juntan 1 vez a la
+semana y por que el equipo de desarrollo se puede juntar en el lugar.
+cuestionarios a los empleados.
+
+JRP
+ventajas: Ahorra tiempo, involcra a los usuarios y la gerencia activamente
+	 . Permite unificar los criterios de requerimientos entre las partes.
+desventajas: Son dificiles de organizar, requieren de entrenamiento y equipo especifico.
+
+2- cuestionario: 
+ventajas	
+	facil de implementar y faciles de analizar , baratos , posibilita realizar preguntas especificas, son anonimos
+	y rapidos
+desventajas:
+	Son rigidos, dificiles de hacer, y tienen pocas preguntas (no entra en profundidad), no cubre todo el espectro de trabajo.
+
+3- tecnicas de especificacion realizaria REDES DE PETRI, ya que demostraria visualmente el funcionamiento del circuito de 
+	deposito y sus tareas en paralelo en tiempo real.
+	La tecnica tiene:  sitios, transiciones, tokens y arcos.
+	sitios: son los estados del modelo;
+	transiciones: Son los eventos de nuestro sistema
+	arcos: indican la relacion entre sitios y transiciones.
+	tokens: sirven para habilitar o deshabilitar transiciones. 
+
+
+4- El modelo es prototipo: Funciona este modelo para que no sea complejo la interfaz, en las E/S y el sistema no es complejo en
+los aspectos técnicos, el desarrollo debe ser visible desde el inicio. 
+   
+El modelo de prototipo sirve para desarrollar un modelo de programa en el cual se efectuaran pruebas para verificar 
+que cumplan con los requisitos funcionales. 
+5- ventajas:  rapido de implementar, barato (<10%), es facil de enntender, equipo de desarrollo reducido.
+	desventajas: El sistema requiere ser experimentable,no se sabe.

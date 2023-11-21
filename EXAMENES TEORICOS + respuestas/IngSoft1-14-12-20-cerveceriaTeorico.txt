@@ -1,0 +1,24 @@
+Examen cerveceria
+ tipos de entrevistas
+-Estructuradas: Hay un conjunto de preguntas a hacer al entrevistado sobre algo puntual y no permite adquirir amplio conocimiento del dominio
+-No estructuradas: Hay un tema general sin preguntas especificas listas e inicia con preguntas que no dependen del contexto
+
+1) describir tecnicas de elicitacion recomendarias: 
+a- Entrevistas estructuradas realizando preguntas del tipo piramidal, con el fin de poder
+b- vista de documentos del software desarrollado para poder verificar que modulos
+y como implementar las modificaciones. 
+
+2) requerimientos funcionales: definen lo que se espera de nuestro programa y lo que no debe realizar (sin meterse en implementacion). 
+	Sus componentes deben poder ayudar a la resolucion de los requisitos.
+	ejemplos: Pagos online, control de stock, reseñas, gestion de pedidos.
+  Requerimientos no funcionales: Restricciones que limitan la solucion nuestro problemas.
+	ejemplos: presupuesto, tiempo de implementacion, leyes de privacidad de los clientes,normas de pago,
+	
+3) Calidad de software : -Conjunto de propiedades o características de un producto o servicio que le confieren aptitud para satisfacer unas necesidades expresadas o implícitas;
+Se divide en calidad del producto(a estandarización del producto define las propiedades que debe satisfacer el producto software resultante.)
+ y calidad del proceso(La estandarización del proceso define la manera de desarrollar el producto software.)(dependientes entre si) 
+y es de gran importancia en la industria por la gestión de calidad y las técnicas de gestión de calidad
+
+calidad producto:ISO/IEC 25000 
+calidad soft: iso/iec 12207, iso/iec90003, Cmmi,iso/iec33000
+calidad de procesos: iso9001

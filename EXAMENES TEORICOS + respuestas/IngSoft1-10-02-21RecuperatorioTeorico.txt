@@ -1,0 +1,24 @@
+EXAMEN DECOHOGARLA PLATA
+
+1) Cuestionario: mucha gente distribuida por todas partes. con preguntas de tipo cerradas y de sondeo. 
+   Muestreo de informacion del proceso de trabajo. 
+   Visitas al sitio de trabajo.
+   Entrevista a gerentes/dueños.
+
+2) Requerimientos funcionales :  son los que detallas que funcionalidades debe cumplir nuestro software,
+	definiendo comportamientos que debe o no debe realizar para cumplir los requerimientos.
+
+Requerimientos No funcionales : son las restricciones al momento de construir nuestra solucion del problema.
+	ejemplos: 	1- marco legal
+			2- presupuesto
+			3- tiempo de entrega o desarrollo
+			4- norma de privacidad de la info de clientes
+			5- respetar el reglamento etico de "DECOHOGARLA PLATA"
+			6- El sistema debe ser compatible con las computadoras de la organizacion. 
+
+3) 	a) Concepto de calidad: -Conjunto de propiedades o características de un producto o servicio
+	 que le confieren aptitud para satisfacer unas necesidades expresadas o implícitas
+	
+	b) ISO/IEC 25000: Esta compuesto por distintos modelos. Define características que pueden estar
+	 presentes o no en el producto. La norma nos permite evaluar si están presentes o no , y de que
+	 manera evaluarlas. EJ: Seguridad, Compatibilidad, Seguridad. Etc.

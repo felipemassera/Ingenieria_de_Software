@@ -1,0 +1,49 @@
+Stakeholders: Cualquier persona o grupo que se verá afectado por el sistema, directa o indirectamente como, por ejemplo:
+-Usuarios finales
+-Gerentes
+-Ingenieros
+-Expertos del dominio
+Ej:  los nenes, francisco, maestras jardineras, directivos, padres de alumnos, 
+representantes legales.
+
+Tenicas de elicitacion
+TECNICAS DE ELICITACION DISCRETAS
+Muestreo de info
+Investigaciones y visitas al sitio: Investiga el dominio, consulta otras organizaciones, etc.
+Observación del ambiente de trabajo: El analista observa a los trabajadores y las actividades manteniendo bajo perfil, tomando nota de lo visto y con permiso del observado.
+
+TECNICAS DE ELICITACION INTERACTIVAS
+JRP Planeación Conjunta de Requerimientos: Son reuniones altamente estructuradas para analizar problemas y definir requerimientos contando con alta participación de los integrantes y reduce el tiempo de exploración de requisitos a cambio de necesitar gran entrenamiento.
+Brainstorming: Los participantes ofrecen ideas sin análisis hasta que no haya más ideas, buscando ideas creativas y en lo posible en gran cantidad. Ayuda a entender el dominio del problema y a resolver la falta de consenso entre usuarios.
+Cuestionarios: Documento que permite al analista recabar información y opiniones de los encuestados en gran cantidad de un tema general principalmente a grandes o dispersos grupos obteniendo actitudes, creencias, comportamientos y características de los encuestados.
+
+REQUERIMIENTOS: Es una característica o una descripción de algo que el sistema o un componente del sistema es capaz de hacer para cumplir con el propósito del sistema.
+Tipos de requerimientos:
+	Funcionales: Describen que hace y como NO se comporta el sistema, las funcionalidades del mismo y son independientes de la implementación de la solución
+	No funcionales: Restricciones que limitan las elecciones de construcción de soluciones al problema
+		-Producto: Especifica el comportamiento del producto
+		-Organizacionales: Se derivan de las políticas y procedimientos existentes en la organización del cliente y en la del desarrollador
+		-Externos: Son de tipo de Interoperabilidad, legales, privacidad, seguridad, éticos, etc
+EJEMPLOS: 
+	funcionales: 	1- mejor contacto con alumnos
+			2- permitir clases online
+			3- permitir subir tareas y calificar tareas
+			4- llevar listado de asistencias
+			5- permitir compartir archivos.
+	no funcionales:	1- Marco normativo del colegio
+			2- Tiempo de desarrollo
+			3- normas de privacidad
+			4- presupuesto
+			5- seguridad
+			6- Disponibilidad (no este en constante mantenimiento)
+
+MODELOS: 
+Cascada: termina la fase actual y continua con el sig abocandonos solo a una parte a la vez;
+V: se conectan pruebas con analisis y diseño;Las actividades de prueba están conectadas con las de análisis y
+	diseño, y se sugiere que las pruebas unitarias y de integración se utilicen para
+ 	confirmar el diseño del programa.
+prototipo: durante el desarrollo se puuede examinar algunos aspectos del sistema, definiendo si estan OK o no; se utiliza para abaratar costos y hacerla en poco tiempo.
+desarrollo por fases: el sistema se entrega por partes; incremental: se entrega una base funcional y se le agregan
+   	nuevas funcionalidades; el iterativo: se entrega un programa completo y se van mejorando las versiones y funcionalidades;
+Espiral: Se va desarrollando el programa controlando el riesgo, se completa un ciclo y se verifica la planificacion del siguiente
+	esto elimina errores.

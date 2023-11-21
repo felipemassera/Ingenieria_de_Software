@@ -1,0 +1,36 @@
+
+1) caracteristicas de software: -Es un elemento lógico -Se desarrolla (no fabrica) -No se desgasta
+   No sigue una curva de envejecimiento normal debido a q el problema esta en los cambios y no en el tiempo de operación.
+
+2) Puntos de vista:
+Interactuadores: Personas u otros sistemas que interactúan directamente con el sistema. Pueden influir en los requerimientos del sistema.
+Indirecto: Stakeholders que no utilizan el sistema ellos mismos pero que influyen en los requerimientos.
+Dominio: Características y restricciones del dominio que influyen en los requerimientos del sistema.
+
+ejemplo :
+	Interactuadores : Alejandra (desarrollador), clientes, empleados que manejan la app. 
+	indirectos: Dueño del emprendimiento, dueño de la empresa de software
+	dominio: leyes comerciales, entes reguladores, seguridad informatica.
+
+3) elicitar tiene como objetivo: identificar necesidades EXPLICITAS e IMPLICITas de clientes y usuarios, Conocer necesidades
+del usuario sin necesidad de conocer el dominio del problema.
+
+4)  Interactivos:  entrevistas. 
+    discretos: mostrar documentacion acerca de como se estaban manejando hasta ahora.
+	       
+5)  Metodología ágil 			Metodología No Ágil
+	Pocos Artefactos		Más Artefactos
+	Pocos Roles			Más Roles
+No existe un contrato tradicional
+o al menos es bastante flexible		Existe un contrato prefijado
+
+El cliente es parte del equipo 		El cliente interactúa con el equipo de
+ de desarrollo (además in-situ)		 desarrollo mediante reuniones
+Grupos pequeños (< 10 integrantes)	Grupos grandes
+ y trabajando en el mismo sitio
+Menos énfasis en la arquitectura	La arquitectura es esencial
+
+6) REQ NO FUNCIONAL: 	Restricciones a la hora de construir una solucion al problema
+	ejemplos: presupuesto, tiempo de desarrollo, marco etico de la empresa
+
+7) Tabla de verdá!
